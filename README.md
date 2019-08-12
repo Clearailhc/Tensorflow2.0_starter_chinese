@@ -65,7 +65,5 @@ pip install tensorflow-gpu==2.0.0b1 -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 jupyter lab的其它用法可以通过别的学习资料了解，至此已经完成了Tensorflow 2.0的安装和运行环境配置，如有问题欢迎提问~
 
-
-
 ### 1. TF中的Keras入门
 #### 1.1 - Keras 快速入门
