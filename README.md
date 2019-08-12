@@ -1,0 +1,2 @@
+# tf2.0_tutorials_practice_chinese
+根据仓库tensorflow2_tutorials_chinese的练习版本，增加了一些个人实现过程中的理解和爬坑，慢慢更新，欢迎讨论~
