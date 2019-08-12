@@ -8,7 +8,7 @@
 #### 0.1. 安装对应版本的Anaconda
 可以选择官网下载或者清华开源镜像站 (https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/) 下载，选择最新的版本下载即可（默认python3.7），下载完成后将清华镜像加入Anaconda Python 免费仓库，打开conda prompt或者terminal运行以下命令:
 
-```python
+```
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
 conda config --set show_channel_urls yes
@@ -18,7 +18,7 @@ conda config --set show_channel_urls yes
 
 使用conda最大的好处是可以创建相对独立的环境，哪怕某个环境崩了也不会影响其它，同样在conda prompt或者terminal运行以下命令：
 
-```python
+```
 conda create -n your_env_name python=3.7
 ```
 
