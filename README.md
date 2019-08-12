@@ -68,4 +68,4 @@ jupyter lab的其它用法可以通过别的学习资料了解，至此已经完
 
 
 ### 1. TF中的Keras入门
-#### 1.1. [Keras快速入门](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/1.1_Keras%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.ipynb)
+#### [1.1. Keras快速入门](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/1.1_Keras%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.ipynb)
