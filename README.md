@@ -69,3 +69,4 @@ jupyter lab的其它用法可以通过别的学习资料了解，至此已经完
 #### 1.1.  [Keras快速入门](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/1.1_Keras%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.ipynb)
 
 本课的内容是和大家一起跑起来tf中基于keras构建的神经网络模型，包括基础的模型搭建、训练、预测等。
+
