@@ -1,6 +1,16 @@
 # 从零开始学TensorFlow 2.0（Tensorflow2.0_starter__chinese）
-根仓库tensorflow2_tutorials_chinese(https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
-)的练习版本，增加了一些个人实现过程中的理解和爬坑，并且根据https://github.com/MoyanZitto/keras-cn 仓库的keras文档做了一些补充，慢慢更新，欢迎讨论~
+做这个仓库是因为自己看了一年论文，但是代码复现能力总是捉鸡:joy:正好Tensorflow2.0推荐使用keras作为构建网络的api，学习成本低了很多，于是想分享一些学习过程的经验和爬过的坑~
+
+**notebook**文件夹中是代码和讲解的notebook文件，大家可以`git clone https://github.com/Clearailhc/Tensorflow2.0_starter_chinese `到本地运行；**markdown**文件夹中是课程的md版本，大家可以对照着自己实践。
+
+本仓库慢慢更新，欢迎讨论~希望和大家一起进步~
+
+（如果大家觉得有帮助的话，请留下小星星 :star:哦 ）
+
+参考：
+
+- tensorflow2_tutorials_chinese（https://github.com/czy36mengfei/tensorflow2_tutorials_chinese）
+- 中文keras文档（https://github.com/MoyanZitto/keras-cn）
 
 ### 0. TensorFlow 2.0-gpu 安装
 个人推荐使用conda安装，省去了分别手动安装CUDA,CUDNN和tf、配置正确版本的繁琐过程，并且conda命令各平台通用。
