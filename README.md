@@ -79,6 +79,6 @@ pip install tensorflow-gpu==2.0.0b1 -i https://pypi.tuna.tsinghua.edu.cn/simple
 jupyter lab的其它用法可以通过别的学习资料了解，至此已经完成了Tensorflow 2.0的安装和运行环境配置，如有问题欢迎提问~
 
 ### 1. TF中的Keras入门
-#### [1.1. Keras快速入门](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/1.1_keras_overview.ipynb)
+#### [1.1. Keras快速入门](https://github.com/Clearailhc/Tensorflow2.0_starter_chinese/blob/master/markdown/1.1_keras_overview.md)
 
 本课的内容是和大家一起跑起来tf中基于keras构建的神经网络模型，包括基础的模型搭建、训练、预测等。
