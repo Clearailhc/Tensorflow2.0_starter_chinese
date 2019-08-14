@@ -1,8 +1,7 @@
-# tf2.0_tutorials_practice_chinese
+# 从零开始学TensorFlow 2.0（Tensorflow2.0_starter__chinese）
 根仓库tensorflow2_tutorials_chinese(https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
 )的练习版本，增加了一些个人实现过程中的理解和爬坑，并且根据https://github.com/MoyanZitto/keras-cn 仓库的keras文档做了一些补充，慢慢更新，欢迎讨论~
 
-## TensorFlow 2.0 实践
 ### 0. TensorFlow 2.0-gpu 安装
 个人推荐使用conda安装，省去了分别手动安装CUDA,CUDNN和tf、配置正确版本的繁琐过程，并且conda命令各平台通用。
 #### 0.1. 安装对应版本的Anaconda
