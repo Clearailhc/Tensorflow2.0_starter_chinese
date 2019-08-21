@@ -1,9 +1,13 @@
 # 从零开始学TensorFlow 2.0（Tensorflow2.0_starter__chinese）
 做这个仓库是因为自己看了一年论文，但是代码复现能力总是捉鸡:joy:正好Tensorflow2.0推荐使用keras作为构建网络的api，学习成本低了很多，于是想分享一些学习过程的经验和爬过的坑~
 
-**notebook**文件夹中是代码和讲解的notebook文件，大家可以`git clone https://github.com/Clearailhc/Tensorflow2.0_starter_chinese `到本地运行；**markdown**文件夹中是课程的md版本，大家可以对照着自己实践。
+**notebook**文件夹中是代码和讲解的notebook文件，
 
-本仓库慢慢更新，欢迎讨论~希望和大家一起进步~
+大家可以`git clone https://github.com/Clearailhc/Tensorflow2.0_starter_chinese `到本地运行；
+
+**markdown**文件夹中是课程的md版本，大家可以对照着自己实践。
+
+本仓库慢慢更新，欢迎讨论~ 希望和大家一起进步~
 
 （如果大家觉得有帮助的话，请留下小星星 :star:哦 ）
 
@@ -75,7 +79,7 @@ pip install tensorflow-gpu==2.0.0b1 -i https://pypi.tuna.tsinghua.edu.cn/simple
 jupyter lab的其它用法可以通过别的学习资料了解，至此已经完成了Tensorflow 2.0的安装和运行环境配置，如有问题欢迎提问~
 
 ### 1. TF中的Keras入门
-#### [1.1. Keras快速入门](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/1.1_keras_overview.ipynb)
+#### [1.1. Keras快速入门](https://github.com/Clearailhc/Tensorflow2.0_starter_chinese/blob/master/markdown/1.1_keras_overview.md)
 
 本课的内容是和大家一起跑起来tf中基于keras构建的神经网络模型，包括基础的模型搭建、训练、预测等。
 #### [Test 1. 实现mnist手写字体识别（全连接神经网络](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/notebook/test1_mnist_dense.ipynb)
