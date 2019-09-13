@@ -85,4 +85,5 @@ jupyter lab的其它用法可以通过别的学习资料了解，至此已经完
 #### [Test 1. 实现mnist手写字体识别（全连接神经网络）](https://github.com/Clearailhc/tf2.0_tutorials_practice_chinese/blob/master/markdown/test1_mnist_dense.md)
 
 本测试的内容是和大家一起利用第一课的`keras.Sequential`模型构建全连接的神经网络，来解决mnist手写字体识别问题。
-#### [1.2 keras函数api](https://github.com/Clearailhc/Tensorflow2.0_starter_chinese/blob/master/markdown/1.1_keras_overview.md)
+#### [1.2 keras函数api](https://github.com/Clearailhc/Tensorflow2.0_starter_chinese/blob/master/markdown/1.2_keras_api/1.2_keras_api.md)
+本课的内容是除了使用序列模型都搭建网络之外，可以使用keras函数式api构建高度自定义的模型。
